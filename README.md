@@ -48,6 +48,9 @@ This is a list of various books, courses and other resources for robotics. It's 
 
 
 ### Software and Libraries ###
+[**Quadrator**](https://github.com/uzh-rpg/rpg_mpc)
+Perception-Aware MPC
+
 [**Gazebo**](http://gazebosim.org/)
 Robot Simulator
 
